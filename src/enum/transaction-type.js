@@ -1,4 +1,4 @@
 exports.TRANSACTION_TYPE = {
-    ORDER: 'order',
-    REFUND: 'refund',
-}
+  ORDER: "order",
+  REFUND: "refund",
+};
