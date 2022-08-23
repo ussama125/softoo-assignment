@@ -5,7 +5,7 @@ softoo-assignment
 npm run start
 
 ## To run tests:
-npm run tests
+npm run test
 
 ## Force the formatting by using this command:
 npm run format:write
